@@ -73,7 +73,7 @@ contract TestContract {
        voters[voter].weight = 1;
    }
 
-   /// Delegate your vote to the voter `to`.
+   /// Delegate your vote to the voter `to`
    function delegate(address to) public {
        // assigns reference
        Voter storage sender = voters[msg.sender];
