@@ -14,7 +14,7 @@ contract TestContract {
 //        uint vote;   // index of the voted proposal
 //    }
 //
-//    // This is a type for a single proposal.
+//    // This is a type for a single proposal
 //    struct Proposal {
 //        bytes32 name;   // short name (up to 32 bytes)
 //        uint voteCount; // number of accumulated votes
