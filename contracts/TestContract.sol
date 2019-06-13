@@ -6,7 +6,7 @@ contract TestContract {
 
 //    // This declares a new complex type which will
 //    // be used for variables later
-//    // It will represent a single voter.
+//    // It will represent a single voter
 //    struct Voter {
 //        uint weight; // weight i s accumulated by delegation
 //        bool voted;  // if true, that person already voted
