@@ -26,7 +26,7 @@ contract TestContract {
 //    // stores a `Voter` struct for each possible address.
 //    mapping(address => Voter) public voters;
 //
-//    // A dynamically-sized array of `Proposal` structs.
+//    // A dynamically-sized array of `Proposal` structs
 //    Proposal[] public proposals;
 //
 //    /// Create a new ballot to choose one of `proposalNames`.
