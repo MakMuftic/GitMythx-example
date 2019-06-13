@@ -5,7 +5,7 @@ pragma solidity 0.5.1;
 contract TestContract {
 
 //    // This declares a new complex type which will
-//    // be used for variables later.
+//    // be used for variables later
 //    // It will represent a single voter.
 //    struct Voter {
 //        uint weight; // weight i s accumulated by delegation
