@@ -4,6 +4,10 @@
     {
       "name": "TestContract",
       "path": "./contracts/TestContract.sol"
+    },
+    {
+      "name": "TestBadContract",
+      "path": "./contracts/TestBadContract.sol"
     }
   ]
 }
