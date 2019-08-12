@@ -1,5 +1,5 @@
 {
-  "solidityVersion": "v0.5.0+commit.c8a2cb62",
+  "solidityVersion": "v0.5.10",
   "contracts": [
     {
       "name": "TestContract",
