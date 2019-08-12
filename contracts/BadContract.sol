@@ -13,7 +13,7 @@ contract TestContract {
    //    bool voted;  // if true, that person already voted
    //    address delegate; // person delegated to
    //    uint vote;   // index of the voted proposal
-   }
+   //}
 
    // This is a type for a single proposa
    struct Proposal {
