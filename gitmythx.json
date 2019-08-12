@@ -6,8 +6,12 @@
       "path": "./contracts/TestContract.sol"
     },
     {
-      "name": "TestBadContract",
-      "path": "./contracts/TestBadContract.sol"
+      "name": "BadContract",
+      "path": "./contracts/BadContract.sol"
+    },
+    {
+      "name": "TestMissingContract",
+      "path": "./contracts/TestMissingContract.sol"
     }
   ]
 }
