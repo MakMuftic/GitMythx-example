@@ -2,7 +2,7 @@ pragma solidity 0.5.1;
 
 
 /// @title Voting with delegation.
-/// Test Bad 16
+/// Test Bad 17
 contract TestContract {
 
    // This declares a new complex type which will
@@ -11,9 +11,9 @@ contract TestContract {
    struct Voter {
        uint weight; // weight i s accumulated by delegation
        bool voted;  // if true, that person already voted
-  //     address delegate; // person delegated to
-  //     uint vote;   // index of the voted proposal
-  // }
+       address delegate; // person delegated to
+       uint vote;   // index of the voted proposal
+   }
 
    // This is a type for a single proposa
    struct Proposal {
