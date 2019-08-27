@@ -2,7 +2,7 @@ pragma solidity 0.5.1;
 
 
 /// @title Voting with delegation.
-/// Test Bad 38
+/// Test Bad 39
 contract TestContract {
 
    // This declares a new complex type which will
