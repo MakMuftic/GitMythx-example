@@ -1,6 +1,6 @@
 pragma solidity 0.5.1;
 
-/// Test Contract 6
+/// Test Contract 7
 contract TestContract {
     uint storedData;
 
