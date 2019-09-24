@@ -20,6 +20,10 @@
     {
       "name": "ERC20",
       "path": "./contracts/ERC20.sol"
+    },
+    {
+      "name": "SimpleStorage",
+      "path": "./contracts/SimpleStorage.sol"
     }
   ]
 }
