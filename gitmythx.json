@@ -12,6 +12,10 @@
     {
       "name": "TestMissingContract",
       "path": "./contracts/TestMissingContract.sol"
+    },
+    {
+      "name": "GoodContract",
+      "path": "./contracts/GoodContract.sol"
     }
   ]
 }
