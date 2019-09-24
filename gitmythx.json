@@ -14,8 +14,8 @@
       "path": "./contracts/TestMissingContract.sol"
     },
     {
-      "name": "GoodContract",
-      "path": "./contracts/GoodContract.sol"
+      "name": "AbstractContract",
+      "path": "./contracts/AbstractContract.sol"
     }
   ]
 }
